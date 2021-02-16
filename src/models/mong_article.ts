@@ -14,7 +14,6 @@ interface IArticle{
     category:string;
     rating:number;
 
-    
 }
 //essentially, the front page should be populated by an array. Basically articles are populated via standard json puts
 // then eventually articles are given various views, which tick up for each specific article
